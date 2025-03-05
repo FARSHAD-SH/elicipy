@@ -1,0 +1,14 @@
+IDX,LABEL,SHORT Q,LONG Q_ENG,UNITS,SCALE,MINVAL,MAXVAL,REALIZATION,QUEST_TYPE,IDXMIN,IDXMAX,SUM50,PARENT,IMAGE
+1,1,Total Containers Flow in 2024 (TEUs),The guess for the total container throughput at Genoa in 2022 is ,num,uni,0,inf,2448000,seed,0,0,0,-1,
+2,2,Growth Rate of Container Traffic 2023 to 2024 (%),The guess for the annual growth rate of container traffic in Genoa ports (2022-2024),%,uni,0,100,2.2,seed,0,0,0,-1,
+3,3,Import flow type percentage in 2024 (%),The guess for the percentage of North Italy’s total trade flow handled by the Port of Genoa ,%,uni,0,100,49.78,seed,0,0,0,-1,
+4,4,Transhiped flow mode percentage in 2024 (%),The guess for the average turnaround time for container vessels at major North Italy ports in 2024 i,%,uni,0,100,11.56,seed,0,0,0,-1,
+5,5,Empty containers percentage in 2024 (%),The guess for the total number of operational cranes at the Major North Italy Ports in 2024 ,%,uni,0,100,23,seed,0,0,0,-1,
+6,6,Total gateway container flow was transported by rail in 2024 (%),The guess for the TEUs handled per crane per day in Genoa ports in 2024 ,%,log,0,100,15,seed,0,0,0,-1,
+7,7,Number of train operated genova to paduva in 2024,The guess for the percentage of total cargo transport handled by trains at the Port of Genoa in 2024 ,num,uni,0,inf,2000,seed,0,0,0,-1,
+8,8, Total number of train in 2024,The guess for the average delay due to customs processing at the Port of Genoa in 2024 ,num,uni,0,inf,9243,seed,0,0,0,-1,
+9,9,Percentage of train modes destination is Lombardy in 2024 (%),The guess for the number of TEUs carried by a feeder ship arriving at the Port of Genoa ,%,log,0,100,35,seed,0,0,0,-1,
+10,10,Percentage of total containers transported by train is departure (%),The guess for the percentage of 20ft containers (TEUs) in Genoa ,%,uni,0,100,45,seed,0,0,0,-1,
+1,1,Expected TEU in 2025,The guess for the total number of TEUs passing through the Port of Genoa in 2025 ,TEUs,uni,0,2000000,,target,0,0,100,-2,next_rhyo&and.png
+2,2,Shift from Truck to Train Transport (%),The guess for the percentage of total cargo transport shifting from trucks to trains at the Port of Genoa in 2025 ,%,uni,0,100,,target,0,0,100,-2,
+3,3,percetage of 20 feet containers (%),The guess for the percentage of hazardous cargo containers in total port flow,%,uni,0,100,,target,0,0,100,1,next_rhyo_types.png

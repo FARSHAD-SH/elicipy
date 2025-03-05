@@ -1,0 +1,2 @@
+First Name,Last Name,Email address,Group(s),"Expected TEU - 5%ile (0,inf) [num]","Expected TEU - 50%ile (0,inf) [num]","Expected TEU - 95%ile (0,inf) [num]","Shift from Truck to Train Transport - 5%ile (0,100) [%]","Shift from Truck to Train Transport - 50%ile (0,100) [%]","Shift from Truck to Train Transport - 95%ile (0,100) [%]","Hazardous Cargo Containers - 5%ile (0,100) [%]","Hazardous Cargo Containers - 50%ile (0, 100) [%]","Hazardous Cargo Containers - 95%ile (0,100) [%]"
+A7,AA7,AAA7,1,1350000,1420000,1.48E+06,3.00E+01,5.00E+01,5.50E+01,1.00E+01,1.20E+01,1.60E+01
